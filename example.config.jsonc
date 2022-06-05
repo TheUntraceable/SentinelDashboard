@@ -1,0 +1,4 @@
+{
+    "mongo_uri": "mongo://theuntraceable:PassWordWasSecureButNowThatItsPublicItsNot@127.0.0.1:27017", // The MongoDB URI
+    "encryption_key": "$2b$11$bhU7Ox3jSdqDbSRmEF4mZu" // Used for encrypting Access and Refresh tokens.
+}
