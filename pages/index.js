@@ -1,10 +1,6 @@
 import styles from '../styles/Home.module.css'
-import axios from "axios"
+import config from "../config.json" 
 
-class AxiosFetcher {
-
-}
 
 export default function Home() {
-    
 }
