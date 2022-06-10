@@ -1,0 +1,5 @@
+{
+    "nextAuthSecret": "run openssl rand -base64 32",
+    "clientId": "Discord Bot Id",
+    "clientSecret": "The Client Secret.."
+}
